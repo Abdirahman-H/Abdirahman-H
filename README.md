@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://substack.com/@abdirahmanh?utm_source=user-menu](https://substack.com/@abdirahmanh?utm_source=user-menu)
 
-- 💬 Ask me about **Bash scripting, Linux system administration, automation, shell scripting best practices**
+- 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **abdi_hassan1998@hotmail.com**
 
