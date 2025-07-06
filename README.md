@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdirahman Hassan</h1>
 <h3 align="center">Passionate DevOps Engineer | Linux & Bash | Git | Learning Networking, AWS, Docker, Terraform & Kubernetes</h3>
 
-- 🔭 I’m currently working on [Bash scripting projects that automate common system tasks, streamline workflows, and strengthen my foundational skills in Linux and DevOps tooling.](https://github.com/Abdirahman-H/DevOps-Learning--BASH)
+- 🔭 I’m currently working on [Bash scripting projects that automate common system tasks, streamline workflows, and strengthen my foundational skills in Linux and DevOps tooling.
 
 - 🌱 I’m currently learning **Docker – containerizing applications and managing environments Kubernetes – orchestrating containers at scale AWS Cloud – deploying infrastructure and services in the cloud Terraform – infrastructure as code to automate provisioning CI/CD Pipelines – automating builds, tests, and deployments with tools like GitHub Actions and Jenkins**
 
