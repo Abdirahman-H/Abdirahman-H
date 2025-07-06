@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Abdirahman Hassan</h1>
 <h3 align="center">Passionate DevOps Engineer | Linux & Bash | Git | Learning Networking, AWS, Docker, Terraform & Kubernetes</h3>
 
-- 🔭 I’m currently working on [Bash scripting](https://github.com/Abdirahman-H/DevOps-Learning--BASH)
+- 🔭 I’m currently working on [Bash scripting projects that automate common system tasks, streamline workflows, and strengthen my foundational skills in Linux and DevOps tooling.](https://github.com/Abdirahman-H/DevOps-Learning--BASH)
 
-- 🌱 I’m currently learning **Docker, Kubernetes, AWS Cloud, Terraform, CI/CD pipelines**
+- 🌱 I’m currently learning **Docker – containerizing applications and managing environments Kubernetes – orchestrating containers at scale AWS Cloud – deploying infrastructure and services in the cloud Terraform – infrastructure as code to automate provisioning CI/CD Pipelines – automating builds, tests, and deployments with tools like GitHub Actions and Jenkins**
 
-- 👯 I’m looking to collaborate on **Open Source DevOps Tools – automation scripts and cloud infrastructure projects**
+- 👯 I’m looking to collaborate on **OOpen Source DevOps Tools – particularly focused on: Bash scripting utilities Cloud automation with Terraform or AWS CLI Containerized development environments Monitoring and logging tool integrations**
 
-- 🤝 I’m looking for help with **Linux System Monitoring Scripts – improving performance and usability**
+- 🤝 I’m looking for help with **Linux System Monitoring Scripts – refining tools to monitor system performance, uptime, and logs. I'm especially interested in scripting performance-friendly tools for real-world environments.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdirahman-H](https://github.com/Abdirahman-H)
 
 - 📝 I regularly write articles on [https://substack.com/@abdirahmanh?utm_source=user-menu](https://substack.com/@abdirahmanh?utm_source=user-menu)
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **DevOps tooling and workflows Bash and Linux scripting Getting started with cloud infrastructure Setting up CI/CD pipelines**
 
-- 📫 How to reach me **abdi_hassan1998@hotmail.com**
+- 📫 How to reach me **📧 Email: abdi_hassan1998@hotmail.com 💼 LinkedIn: https://www.linkedin.com/in/abdirahman-hassan-b62467195/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
